@@ -9,5 +9,5 @@ The data downloaded from [Kaggle](https://www.kaggle.com/datasets/corrieaar/apar
 
 
 # Tableau Storyboard
-[German Real Estate Analysis](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany)
+[German Real Estate Analysis](https://public.tableau.com/app/profile/rebekka.brandt/viz/GermanRealEstateMarket/GermanRealEstateMarketAnalysis?publish=yes)
 
